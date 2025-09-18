@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!");
+    int x = 3;
+    int y = 4;
+    printf("%d", x+y);
+
     return 0;
 }
